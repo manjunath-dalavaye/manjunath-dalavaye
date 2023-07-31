@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/13e3a87d11cf530e03e6ee8581537ad818fbb8ba1087705e987156a9337accb6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646165676f6b7469612f696d6167652f75706c6f61642f76313634313931333131342f7765625f626a396c66642e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manjunath S</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath-dalavaye&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath-dalavaye" /> </p>
 
