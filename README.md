@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true](https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Web Devlopment**
 
 - 📫 How to reach me **manjunathadvg2002@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
