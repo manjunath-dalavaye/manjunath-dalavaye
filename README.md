@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Qtrip**
+- 🔭 I’m currently working on **Xboard**
 
 - 🌱 I’m currently learning **React,Node,Express js**
 
