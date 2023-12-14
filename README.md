@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **Xboard**
+- 🔭 I’m currently working on **QKart-E Commerce website **
 
 - 🌱 I’m currently learning **React,Node,Express js**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true](https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true)
 
-- 💬 Ask me about **Web Devlopment**
+- 💬 Ask me about **Front-End Web Devlopment**
 
 - 📫 How to reach me **manjunathadvg2002@gmail.com**
 
