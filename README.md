@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **QKart-E Commerce website**
+- 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **React,Node,Express js**
 
