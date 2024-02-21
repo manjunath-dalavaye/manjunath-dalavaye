@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **React,Node,Express js**
+- 🌱 I’m currently learning **React.js,Node,Express js**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true](https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true)
 
