@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **React.js,Node,Express js**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true](https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true)
+- 👨‍💻 All of my projects are available at [https://manjunath-s.netlify.app/
+]([https://www.crio.do/learn/portfolio/manjunathadvg2002/?edit=true](https://manjunath-s.netlify.app/
+))
 
 - 💬 Ask me about **Front-End Web Devlopment**
 
