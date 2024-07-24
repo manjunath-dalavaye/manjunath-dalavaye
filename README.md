@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **React.js,Node,Express js**
 
-- 👨‍💻 All of my projects are available at [https://manjunath-s.netlify.app/
-]((https://manjunath-s.netlify.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://manjunath-s.netlify.app/)
 
 - 💬 Ask me about **Front-End Web Devlopment**
 
