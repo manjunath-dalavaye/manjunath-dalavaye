@@ -1,15 +1,15 @@
 [![An image of @manjunathdalavaye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manjunathdalavaye)](https://holopin.io/@manjunathdalavaye)
 <h1 align="center">Hi 👋, I'm Manjunath S</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate about frontend devlopment</h3>
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath-dalavaye&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath-dalavaye" /> </p>
 
 
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **React.js,Node,Express js**
+- 🌱 I’m currently learning **React.js,Redux**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://manjunath-s.netlify.app/)
 
